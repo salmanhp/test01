@@ -87,7 +87,7 @@ function App(): React.JSX.Element {
             <DebugInstructions />
           </Section>
           <Section title="Learn More">
-            Hellow world!
+            Hellow world! nndvcshg
           </Section>
           <LearnMoreLinks />
         </View>
